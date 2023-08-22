@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b4qmvb2vuw3u"]
+
+[ext_resource type="Script" path="res://addons/screenshot_taker/ScreenshotTaker.gd" id="1_c1qsg"]
+
+[node name="ScreenshotTaker" type="Node"]
+script = ExtResource("1_c1qsg")
